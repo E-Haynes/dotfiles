@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emi.haynes@icloud.com
+	name = Emily Haynes
